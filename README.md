@@ -45,7 +45,10 @@ Apaixonada por tecnologia, design e gestão de projetos 🚀
   </a>
   <a href="https://www.instagram.com/sabrina.scq?igsh=azE0aHRveTB0MnFv">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  <a href="http://lattes.cnpq.br/0714551722803579" target="_blank">
+  <img src="https://img.shields.io/badge/Lattes-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMDA3N2I1IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCI+PHJlY3Qgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiByeD0iMyIvPjwvc3ZnPg==" />
+</a>
+
 </p>
 
 ---
