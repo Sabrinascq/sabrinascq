@@ -52,17 +52,6 @@ Apaixonada por tecnologia, design e gestão de projetos 🚀
 </p>
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <!-- Estatísticas gerais -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sabrinascq&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-
-  <!-- Linguagens mais usadas em todos os repositórios públicos -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinascq&layout=compact&theme=radical&langs_count=10" />
-</p>
-
 ---
 
 <p align="center">
